@@ -91,3 +91,4 @@ let visitanteActual= "John";
 // Notas:
 // Normalemnte se usan mayúsculas para las constantes que están "codificadas de forma rígida".(cuando el valor se conoce antes de la ejecución y se escribe directamente en el código)
 // Como el cumpleaños se calcula deberiamos usar miniúsculas para la edad
+
